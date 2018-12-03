@@ -4,7 +4,7 @@
 An RSS feedreader (web-based application) which needed testing using Jasmine framework.
 
 # Instructions:
-The Jasmine framework has been included in the application via CDN. To run the project you can either visit this link: or download / clone the repo in your local machine and fire up: index.html.
+The Jasmine framework has been included in the application via CDN. To run the project you can download / clone the repo in your local machine and fire up: index.html.
 
 # Tests included:
 
